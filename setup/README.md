@@ -8,8 +8,10 @@ The following readme will walkthrough the necessary services needed for THINK 20
 ### IBM Watson Studio
 All services will require an IBM Cloud account. [Sign up via this link.](https://ibm.biz/Bd2Sfe) 
 
+| ![1.jpg](https://github.com/PubChimps/think2019/blob/master/setup/images/1.jpg?raw=true) |  
+|:--:| 
+| *After registering and logging in, search for & select "Watson Studio."* |
 
-After registering and logging in, search for & select "Watson Studio."
 
 Select a "Lite" plan and "Create."
 
