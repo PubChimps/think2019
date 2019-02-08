@@ -1,11 +1,11 @@
-## IBM Cloud setup
+# IBM Cloud setup
 The following readme will walkthrough the necessary services needed for THINK 2019's Watson Natural Language Classifier Masterclass. The following IBM Cloud Services are needed
 
-**IBM Watson Studio**  
-**IBM Cloud Object Storage**  
-**IBM Watson Natural Language Classifier**  
+[**IBM Watson Studio**](#WatsonStudio)  
+[**IBM Cloud Object Storage**](#Storage)  
+[**IBM Watson Natural Language Classifier**](#API)  
 
-### IBM Watson Studio
+## IBM Watson Studio <a name="WatsonStudio"></a>
 All services will require an IBM Cloud account. [Sign up via this link.](https://ibm.biz/Bd2Sfe) 
 
 | ![1.jpg](https://github.com/PubChimps/think2019/blob/master/setup/images/1.jpg?raw=true) |  
@@ -28,7 +28,7 @@ All services will require an IBM Cloud account. [Sign up via this link.](https:/
 |:--:| 
 | *A "Standard" project will be used.* |
 
-### IBM Cloud Object Storage
+## IBM Cloud Object Storage <a name="Storage"></a>
 
 | ![6.jpg](https://github.com/PubChimps/think2019/blob/master/setup/images/6.jpg?raw=true) |  
 |:--:| 
@@ -42,7 +42,7 @@ All services will require an IBM Cloud account. [Sign up via this link.](https:/
 |:--:| 
 | *"Refresh" the storage service definition. Once the newly created service appears, "Create" the new project.* |
 
-### IBM Watson Natural Language Classifier
+## IBM Watson Natural Language Classifier <a name="API"></a>
 | ![9.jpg](https://github.com/PubChimps/think2019/blob/master/setup/images/9.jpg?raw=true) |  
 |:--:| 
 | *API's can be added to the project via the project's "Settings."* |
