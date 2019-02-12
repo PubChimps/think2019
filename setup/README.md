@@ -8,6 +8,13 @@ The following readme will walkthrough the necessary services needed for THINK 20
 ## IBM Watson Studio <a name="WatsonStudio"></a>
 All services will require an IBM Cloud account. [Sign up via this link.](https://ibm.biz/Bd2Sfe) 
 
+**NOTE - A promo code will be needed to use some of the services in this Masterclass details follow**  
+[Click here](https://developer.ibm.com/callforcode/featurecode) and enter in the confirmation code ThinkSF19 . A code will be retrieved and displayed.
+
+To apply the code, open the IBM Cloud dashboard at https://cloud.ibm.com.  
+Open **Manage** -> **Billing** -> **Billing and usage**.  
+Scroll down to **Feature (Promo) Codes** click on **Apply** to open a panel to enter the provided code and click **Apply** to activate the code for the account.
+
 | ![1.jpg](https://github.com/PubChimps/think2019/blob/master/setup/images/1.jpg?raw=true) |  
 |:--:| 
 | *After registering and logging in, search for & select "Watson Studio."* |
